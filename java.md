@@ -1,0 +1,1 @@
+COMP 20043 Lab Exam will be on  21/4/2024 at 3.30 PM to 5.00 PM.
