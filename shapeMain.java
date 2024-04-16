@@ -1,3 +1,4 @@
+/* 
 class Shape {
     double length, breadth;
 
@@ -35,3 +36,4 @@ public class shapeMain {
         shape3.check();
     }
 }
+*/

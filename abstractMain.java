@@ -16,7 +16,7 @@ abstract class Animal {
     }
 
     public abstract void makeSound();
-}
+} 
 
 class Cat extends Animal {
     public Cat(String name, int age) {
