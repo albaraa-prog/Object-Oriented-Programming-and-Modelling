@@ -7,7 +7,8 @@ class Hello {
 
 class HelloWorld {
     public static void main(String args[]) {
-        System.out.print(55555);
+        Hello m = new Hello();
+        m.m1();
     }
 
 }
