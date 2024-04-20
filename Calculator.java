@@ -35,7 +35,6 @@ public class Calculator {
         }else{
             System.out.println("Cannot Multiply by 0");
         }
-
     }
 }
 

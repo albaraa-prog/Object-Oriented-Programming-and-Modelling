@@ -20,7 +20,7 @@ public class APerson {
     }
 }
 // Main.java
-  class Main {
+  class Mainf {
     public static void main(String[] args) {
         // Creating objects of the Person class
         APerson person1 = new APerson();
