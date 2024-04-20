@@ -25,6 +25,4 @@ public class examprac2 {
         huh.displayValues();
 
     }
-
-    
 }
