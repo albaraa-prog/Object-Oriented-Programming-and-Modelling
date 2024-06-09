@@ -1,5 +1,6 @@
 abstract class InputOutputClass {
     public abstract void getData();
+
     public abstract void putData();
 }
 
@@ -45,6 +46,7 @@ class Student extends InputOutputClass {
         System.out.println("Student Name: " + studentName);
         System.out.println("GPA: " + GPA);
     }
+
 }
 
 public class week5Main {
